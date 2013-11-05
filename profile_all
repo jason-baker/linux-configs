@@ -1,0 +1,9 @@
+# improve bash history
+shopt -s histappend
+
+# Store 10000 commands in bash history
+export HISTFILESIZE=100000
+export HISTSIZE=10000
+
+# Don't put duplicate lines in the history
+export HISTCONTROL=ignoredups

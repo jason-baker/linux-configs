@@ -1,0 +1,4 @@
+CLUCOLOR=1
+LSCOLORS=cxfxhxdxbxegedabagacad
+export CLUCOLOR
+export LSCOLORS
