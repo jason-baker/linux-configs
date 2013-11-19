@@ -1,4 +1,4 @@
-CLUCOLOR=1
+CLICOLOR=1
 LSCOLORS=cxfxhxdxbxegedabagacad
 export CLUCOLOR
 export LSCOLORS
