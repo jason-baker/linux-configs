@@ -1,0 +1,4 @@
+LSCOLORS=cxfxhxdxbxegedabagacad
+export LSCOLORS
+
+source bash_profile_all
