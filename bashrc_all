@@ -3,3 +3,7 @@
 
 #alias ls='ls --color=auto'
 PS1='[\u@\h:\W]\$ '
+
+# Update the history controls
+HISTCONTROL="erasedups"
+export HISTCONTROL
